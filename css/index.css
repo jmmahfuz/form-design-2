@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-container {
+.container {
     padding: 15px 20px;
     background-color: #EAEAEA;
 }
@@ -47,7 +47,7 @@ container {
 }
 
 .component_input_field {
-    width: 610px;
+    width: 630px;
     padding: 12px 20px;
     margin: 8px 0;
     display: flex;
@@ -78,7 +78,7 @@ container {
 
 
     .component_input_field {
-        width: auto;
+        width: 300px;
     }
 
 
